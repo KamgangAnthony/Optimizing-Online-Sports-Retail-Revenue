@@ -1,4 +1,4 @@
-* This is an exercise to assess using sql how to maximise profitability for a firm in the sports apparel and athleisure outfit market.
+* This is an exercise to assess, using sql how to maximise profitability for a firm in the sports apparel and athleisure outfit market.
 
 
 Sports apparel and athleisure wear is a significant sector, valued around $193 billion in 2021, with a robust growth projection over the following decade!
