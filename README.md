@@ -1,9 +1,12 @@
-# Optimizing-Online-Sports-Retail-Revenue
+* This is an exercise to assess using sql how to maximise profitability for a firm in the sports apparel and athleisure outfit market.
 
-* This is an exercise to analyse with sql how to optimize profits for a company in the sports clothing and athleisure attire industry.
 
-Sports clothing and athleisure attire is a huge industry, worth approximately $193 billion in 2021 with a strong growth forecast over the next decade!
+Sports apparel and athleisure wear is a significant sector, valued around $193 billion in 2021, with a robust growth projection over the following decade!
 
-In this notebook, we play the role of a product analyst for an online sports clothing company. The company is specifically interested in how it can improve revenue. We will dive into product data such as pricing, reviews, descriptions, and ratings, as well as revenue and website traffic, to produce recommendations for its marketing and sales teams.
 
-The database provided to us, sports, contains five tables, with product_id being the primary key for all of them(see notebook)
+In this notebook, we assume the position of a product analyst for an online sports apparel firm.
+The corporation is primarily interested in how it might enhance revenue.
+We will look into product data such as price, reviews, descriptions, and ratings, as well as revenue and website traffic, to provide suggestions for its marketing and sales teams.
+
+
+The database supplied to us, sports, comprises five tables, with product id being the primary key for all of them (see notebook). 
