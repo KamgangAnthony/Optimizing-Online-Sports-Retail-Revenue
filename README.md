@@ -12,4 +12,7 @@ We will look into product data such as price, reviews, descriptions, and ratings
 
 
 The database supplied to us, sports, comprises five tables, with product id being the primary key for all of them (see notebook). 
+
+
+An extract from the results
 ![alt text](image.png "")
